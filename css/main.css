@@ -4,7 +4,7 @@
 
 body {
   padding-bottom: 5px;
-  background-image: url('background.jpg');
+  background-image: url('../images/background.jpg');
   background-color: #000029;
 }
 a:link {
