@@ -3,4 +3,4 @@ SMB Website
 
 Source code for the SMB website.
 
-Status: Active Development*
+Status: In Active Development*
