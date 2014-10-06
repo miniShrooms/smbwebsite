@@ -4,6 +4,8 @@
 
 body {
   padding-bottom: 5px;
+  background-image: url('background.jpg');
+  background-color: #000029;
 }
 a:link {
     text-decoration: none;
